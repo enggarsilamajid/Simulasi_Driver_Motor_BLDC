@@ -5,4 +5,4 @@ Simulasi Driver Motor BLDC dirangkai menggunakan aplikasi Matlab/SIMULINK. Spesi
 - Diagram blok Gate berisi rangkaian gerbang logika yang menghasilkan sinyal masukan bagi masing-masing MOSFET pada blok inverter, sehingga proses pensaklaran pada rangkaian inverter dapat berjalan.
 - Diagram blok controller berisi rangkaian kendali Proportional Integral Derivative (PID) yang disusun dengan tiga buah gain, masing-masing gain berfungsi sebagai masukan nilai proportional (Kp), integral (Ki) dan derivative (Kd).
 
-# Simulasi Driver Motor BLDC digunakan dalam perencanaan driver motor BLDC agar dapat menghasilkan kecepatan putar (rpm) yang stabil saat terjadi perubahan beban torsi. Rangkaian kendali PID digunakan untuk memperoleh respon transien dengan nilai lonjakan yang rendah.
+Simulasi Driver Motor BLDC digunakan dalam perencanaan driver motor BLDC agar dapat menghasilkan kecepatan putar (rpm) yang stabil saat terjadi perubahan beban torsi. Rangkaian kendali PID digunakan untuk memperoleh respon transien dengan nilai lonjakan yang rendah.
